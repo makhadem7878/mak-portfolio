@@ -1,0 +1,6 @@
+{
+  "name": "Musabber Portfolio",
+  "description": "Premium personal portfolio for Musabber Ali Khadem - Digital Creative Professional showcasing design, websites, marketing, AI workflows, and video.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
